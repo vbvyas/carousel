@@ -1,6 +1,8 @@
 # Carousel
 
-Use any static site framework I used http-server
+Use any static site framework tool. I used http-server.
+
+JSFiddle link: [https://jsfiddle.net/bx78egLf/](https://jsfiddle.net/bx78egLf/)
 
 ### Installation
 
